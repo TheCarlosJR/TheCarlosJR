@@ -5,9 +5,11 @@
 ![C++ Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-cplusplus-a-general-purpose-descriptive-programming-computer-language-32.png)
 ![Pascal Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-ide-do-delphi-32.png)
 ![Python Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-python-32.png)
+![MySQL Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-logo-mysql-32.png)
 ![Photoshop Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-adobe-photoshop-32.png)
 ![Gimp Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-gimp-32.png)
 ![Raspberry Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-raspberry-pi-32.png)
+![Eletronic Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-processador-32.png)
 
 --------------------------------------------------------------
   
@@ -45,7 +47,7 @@ Obrigado pela visita
   
 --------------------------------------------------------------
   
-Open Source Icons from: [icons8](https://icons8.com.br/)
+Open Source icons from: [icons8](https://icons8.com.br/)
   
 <!--
 **TheCarlosJR/TheCarlosJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
