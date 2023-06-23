@@ -5,6 +5,7 @@
 ![Photoshop Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-adobe-photoshop-32.png)
 ![Gimp Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-gimp-32.png)
 ![Python Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-python-32.png)
+![Raspberry Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-raspberry-pi-32.png)
   
 ### Hi there 👋
   
@@ -30,6 +31,12 @@ Sou desenvolvedor de software e técnico eletrônico, prazer em conhecê-lo(a).
 - 👯 Pretendo colaborar em projetos Open Source projects;
 - 🔭 Atualmente trabalho com projetos privados;
 - 📫 Como me contatar: [Perfil no Linkedin](https://www.linkedin.com/in/eng-carlos-jr/)
+  
+--------------------------------------------------------------
+  
+Thank you for visiting me
+Obrigado pela visita
+![Thankyou Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-tarefa-concluída-32.png)
   
 [Open Source Icons from icons8](https://icons8.com.br/)
 <!--
