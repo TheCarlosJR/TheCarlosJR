@@ -38,9 +38,13 @@ Sou desenvolvedor de software e técnico eletrônico, prazer em conhecê-lo(a).
   
 Thank you for visiting me  
 Obrigado pela visita  
+  
 ![Thankyou Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-tarefa-concluída-32.png)
   
-[Open Source Icons from icons8](https://icons8.com.br/)
+--------------------------------------------------------------
+  
+Open Source Icons from: [icons8](https://icons8.com.br/)
+  
 <!--
 **TheCarlosJR/TheCarlosJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
