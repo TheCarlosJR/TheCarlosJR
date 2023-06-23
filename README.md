@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Carlos,
+My name is Carlos
 I'm a software developer and electronic technician, nice to meet you.
 
 - ⚡ I’m interrested in software development for web, mobile, windows, linux, and so on;
@@ -13,7 +13,7 @@ I'm a software developer and electronic technician, nice to meet you.
 
 ### Olá! 👋
 
-Meu nome é Carlos,
+Meu nome é Carlos
 Sou desenvolvedor de software e técnico eletrônico, prazer em conhecê-lo(a).
 
 - ⚡ Estou interessado em desenvolvimento de software para web, mobile, windows, linux, e assim em diante;
