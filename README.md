@@ -6,6 +6,8 @@
 ![Gimp Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-gimp-32.png)
 ![Python Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-python-32.png)
 ![Raspberry Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-raspberry-pi-32.png)
+
+--------------------------------------------------------------
   
 ### Hi there 👋
   
@@ -34,8 +36,8 @@ Sou desenvolvedor de software e técnico eletrônico, prazer em conhecê-lo(a).
   
 --------------------------------------------------------------
   
-Thank you for visiting me
-Obrigado pela visita
+Thank you for visiting me  
+Obrigado pela visita  
 ![Thankyou Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-tarefa-concluída-32.png)
   
 [Open Source Icons from icons8](https://icons8.com.br/)
