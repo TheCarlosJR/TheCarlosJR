@@ -1,4 +1,10 @@
-![C++ Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-adobe-photoshop-32.png)
+![Pascal Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-ide-do-delphi-32.png)
+![C Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-programação-c-32.png)
+![C++ Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-cplusplus-a-general-purpose-descriptive-programming-computer-language-32.png)
+![JS Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-javascript-32.png)
+![Photoshop Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-adobe-photoshop-32.png)
+![Gimp Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-gimp-32.png)
+![Python Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-python-32.png)
   
 ### Hi there 👋
   
