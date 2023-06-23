@@ -1,4 +1,4 @@
-![C++ Icon]([https://github.com/TheCarlosJR/TheCarlosJR/)
+![C++ Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-adobe-photoshop-32.png)
   
 ### Hi there 👋
   
