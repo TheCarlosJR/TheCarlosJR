@@ -1,3 +1,5 @@
+![C++ Icon]([http://url/to/img.png](https://drive.google.com/file/d/1_9Q-rcr-FJV60Q9OaGkpDNOMUr-dB42u/view?usp=drive_link))
+  
 ### Hi there 👋
   
 My name is Carlos,  
@@ -8,9 +10,9 @@ I'm a software developer and electronic technician, nice to meet you.
 - 👯 I’m looking to collaborate on Open Source projects and learn even more;
 - 🔭 I'm currently working with private projects;
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/eng-carlos-jr/)
-
+  
 --------------------------------------------------------------
-
+  
 ### Olá! 👋
   
 Meu nome é Carlos,  
@@ -22,7 +24,7 @@ Sou desenvolvedor de software e técnico eletrônico, prazer em conhecê-lo(a).
 - 👯 Pretendo colaborar em projetos Open Source projects;
 - 🔭 Atualmente trabalho com projetos privados;
 - 📫 Como me contatar: [Perfil no Linkedin](https://www.linkedin.com/in/eng-carlos-jr/)
-
+  
 <!--
 **TheCarlosJR/TheCarlosJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
