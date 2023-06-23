@@ -1,4 +1,4 @@
-![C++ Icon]([http://url/to/img.png](https://drive.google.com/file/d/1_9Q-rcr-FJV60Q9OaGkpDNOMUr-dB42u/view?usp=drive_link))
+![C++ Icon]([https://github.com/TheCarlosJR/TheCarlosJR/)
   
 ### Hi there 👋
   
@@ -25,6 +25,7 @@ Sou desenvolvedor de software e técnico eletrônico, prazer em conhecê-lo(a).
 - 🔭 Atualmente trabalho com projetos privados;
 - 📫 Como me contatar: [Perfil no Linkedin](https://www.linkedin.com/in/eng-carlos-jr/)
   
+[Open Source Icons from icons8](https://icons8.com.br/)
 <!--
 **TheCarlosJR/TheCarlosJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
