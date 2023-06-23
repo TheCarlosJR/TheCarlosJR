@@ -1,5 +1,5 @@
   
-### Skils
+### Skills
   
 ![Flutter Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-flutter-32.png "Flutter")
 ![Javascript Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-javascript-32.png "Javascript")
