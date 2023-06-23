@@ -41,7 +41,7 @@ Sou desenvolvedor de software e técnico eletrônico, prazer em conhecê-lo(a).
 Thank you for visiting me  
 Obrigado pela visita  
   
-![Thankyou Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons8-tarefa-concluída-32.png)
+![Thankyou Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-tarefa-concluída-32.png)
   
 --------------------------------------------------------------
   
