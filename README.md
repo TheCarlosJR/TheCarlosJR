@@ -5,7 +5,7 @@
 ![Javascript Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-javascript-32.png "Javascript")
 ![C Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-programação-c-32.png "C")
 ![C++ Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-cplusplus-a-general-purpose-descriptive-programming-computer-language-32.png "C++")
-![Pascal Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-ide-do-delphi-32.png "Pascal")
+![Pascal Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-ide-do-delphi-32.png "Delphi Pascal")
 ![Python Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-python-32.png "Python")
 ![MySQL Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-logo-mysql-32.png "MySQL")
 ![Photoshop Icon](https://github.com/TheCarlosJR/TheCarlosJR/blob/main/icons/icons8-adobe-photoshop-32.png "Photoshop")
