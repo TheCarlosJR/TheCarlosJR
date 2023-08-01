@@ -24,7 +24,7 @@ I'm a software developer and electronic technician, nice to meet you.
 - 🌱 I’m currently learnind about Flutter;
 - 👯 I’m looking to collaborate on Open Source projects and learn even more;
 - 🔭 I'm currently working with private projects;
-- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/eng-carlos-jr/)
+- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/devcarlosjr/)
   
 --------------------------------------------------------------
   
@@ -38,7 +38,7 @@ Sou desenvolvedor de software e técnico eletrônico, prazer em conhecê-lo(a).
 - 🌱 Pretendo continuar aprendendo cada vez mais;
 - 👯 Pretendo colaborar em projetos Open Source projects;
 - 🔭 Atualmente trabalho com projetos privados;
-- 📫 Como me contatar: [Perfil no Linkedin](https://www.linkedin.com/in/eng-carlos-jr/)
+- 📫 Como me contatar: [Perfil no Linkedin](https://www.linkedin.com/in/devcarlosjr/)
   
 --------------------------------------------------------------
   
